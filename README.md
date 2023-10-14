@@ -1,0 +1,2 @@
+# AutoMouse
+Auto Mouse Macro
